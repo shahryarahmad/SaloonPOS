@@ -10,3 +10,21 @@
 ## About Salon POS
 <h1></h1>
 ##
+## Installation
+<h1></h1>
+##
+## Workings
+<h1>Generated a Clean Laravel Project</h1>
+<ul>
+    <li>composer create-project laravel/laravel salonPos</li>
+    <li>used <a href="https://github.com/shahryarahmad/startbootstrap-sb-admin-2-dark-light-mode">sb-admin2 dark mode</a></li>
+    <li>Generated AuthController for authentication</li>
+    <li>Generated AuthRequest to check if password and email entered or not</li>
+    <li>sliced the template in header footer and main sections</li>
+</ul>
+##
+
+
+
+
+
